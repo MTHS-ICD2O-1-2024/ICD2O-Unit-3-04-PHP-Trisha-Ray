@@ -53,7 +53,7 @@
           $celcius = ($fahrenheit - 32) * 5 / 9 ;
           // output
           echo "<br />";
-          echo "The temperature in celcius is" . $celcius . "°.";
+          echo "The temperature in celcius is " . $celcius . "°.";
           ?>
         </div>
         <div class="page-content-answer">
